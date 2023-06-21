@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Adrian Mayen</h1>
+<div id=¨top¨ align="center">
+  <img alt="HOLA" src="https://media.tenor.com/G6Ue5AGuHAEAAAAd/purah-tears-of-the-kingdom.gif">
+</div>
+<h3 align="center">Passionate about technology</h3> 
+<div id=¨badges¨ align="center">
+ <img alt="Twitch Status" src="https://img.shields.io/twitch/status/adribuenosdias?style=for-the-badge&logo=twitch&labelColor=purple"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC_pH4cB04CKCT0a-7J_quZQ?style=for-the-badge&logo=youtube&logoColor=red&label=Youtube"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AdriBuenosDias?style=for-the-badge&logo=twitter&color=cyan">
+</div>
 
-<!--
-**Adripuntoexe/Adripuntoexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### About Me 🤓
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   -NOTA PARA EL YO DEL FUTURO QUE LEA ESTO, RECUERDA TERMINAR ESTO, ALGUN DIA XD
+
+---
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/adribuenosdias"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adribuenosdias" /></a></p><br><br>
